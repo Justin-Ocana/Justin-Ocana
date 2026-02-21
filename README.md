@@ -1,19 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Justin Ocaña
+# Justin Ocaña
 
-### Backend Developer | System Architect | 16 years old from Ecuador 🇪🇨
+### Backend Developer focused on System Architecture
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Design+first.+Code+second.;Building+real-world+systems;Python+%7C+Django+%7C+PostgreSQL;Multi-tenant+SaaS+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Design+first.+Code+second.;Building+real-world+systems;System+Architecture+%7C+Backend+Logic" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/Justin-Ocana?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justin-Ocana)
-[![Email](https://img.shields.io/badge/Email-justin.ocana.molina%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.ocana.molina@gmail.com)
+Based in Ecuador
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
 ```python
 class Justin:
@@ -41,89 +40,64 @@ I approach software as a **system, not just code**. At 16, I've spent the last t
 
 ---
 
-## 💼 Featured Projects
+## Architecture Focus
 
-### 🎯 [Agenda Virtual EIWA](https://github.com/Justin-Ocana)
-**Production • Active Users**
+I design backend systems with emphasis on:
 
-Digital version of EIWA's physical agenda with real-time collaboration and smart notifications.
-
-- ✅ Modular Django architecture (8 apps)
-- ✅ Hierarchical role-based permissions
-- ✅ PostgreSQL relational optimization
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+- **Data modeling before implementation** — Schema design drives application structure
+- **Permission logic as core design layer** — Authorization isn't an afterthought
+- **Multi-tenant isolation strategies** — Schema-level separation for SaaS platforms
+- **Scalable relational database structures** — Normalized models with clear relationships
+- **Clear separation between domain logic and infrastructure** — Business rules independent of frameworks
 
 ---
 
-### 💰 [SouthernPOS](https://github.com/Justin-Ocana)
-**MVP+ Stage • Financial System**
+## Technical Stack
 
-Cloud-based POS system with multi-tenant architecture for restaurants and retail businesses.
-
-- 🔄 Multi-tenant schema isolation
-- 📦 Real-time inventory management
-- 💳 Payment gateway integration
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-FF6B6B?style=for-the-badge)
-
----
-
-### 🎮 [Plugsite](https://github.com/Justin-Ocana)
-**87% Complete • Multi-Tenant SaaS**
-
-Multi-tenant SaaS platform for Minecraft server stores with PayPal integration and withdrawal system.
-
-- 🏢 Tenant-isolated MongoDB architecture
-- 💸 PayPal IPN webhook processing
-- 🤖 Automated withdrawal system
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-
----
-
-## 🛠️ Technical Stack
-
-### Backend Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### AI Tools
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🎯 Core Principles
+## Selected Work
 
-```
-✓ Design before implementation
-✓ Structure logic clearly
-✓ Keep systems maintainable
-✓ Use AI strategically, not blindly
-✓ Build solutions that scale
-```
+### Agenda Virtual EIWA
+Production system with active users. Digital agenda with real-time collaboration.
+
+- Modular Django architecture (8 apps)
+- Hierarchical role-based permissions
+- PostgreSQL relational optimization
+
+### SouthernPOS
+Cloud-based POS system with multi-tenant architecture for restaurants and retail.
+
+- Multi-tenant schema isolation
+- Real-time inventory management
+- Payment gateway integration
+
+### Plugsite
+Multi-tenant SaaS platform for Minecraft server stores with PayPal integration.
+
+- Tenant-isolated MongoDB architecture
+- PayPal IPN webhook processing
+- Automated withdrawal system
 
 ---
 
-## 📊 GitHub Stats
+## Core Principles
+
+- Design before implementation
+- Structure logic clearly
+- Keep systems maintainable
+- Use AI strategically, not blindly
+- Build solutions that scale
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -137,34 +111,23 @@ Multi-tenant SaaS platform for Minecraft server stores with PayPal integration a
 
 ---
 
-## 🌱 Currently
+## Currently
 
-- 🔭 Working on **SouthernPOS** and **Plugsite**
-- 🌱 Learning **System Architecture** and **Scalable Design Patterns**
-- 👯 Open to **internships** and **exciting projects**
-- 💬 Ask me about **Django, PostgreSQL, Multi-tenant Architecture**
-- ⚡ Fun fact: I use AI as a productivity assistant, not as a replacement for thinking
+Working on **SouthernPOS** and **Plugsite**. Learning system architecture and scalable design patterns. Open to internships and exciting projects.
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.ocana.molina@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Justin-Ocana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://justin-ocana.github.io/)
-
-</div>
+**Email:** justin.ocana.molina@gmail.com  
+**Portfolio:** [justin-ocana.github.io](https://justin-ocana.github.io/)
 
 ---
 
 <div align="center">
 
-### 💡 "Solving real problems. I design systems before I write code."
+*"Solving real problems. I design systems before I write code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Justin-Ocana&color=3B82F6&style=for-the-badge)
-
-**Currently available for new projects** 🟢
+Currently available for new projects.
 
 </div>
