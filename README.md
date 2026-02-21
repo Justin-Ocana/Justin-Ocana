@@ -2,11 +2,8 @@
 
 # Justin Ocaña
 
-**Backend Developer**
-
-Building scalable backend systems
-
-Design-first mindset • SaaS architecture • Clean system design
+Backend Developer  
+Designing scalable backend systems
 
 Based in Ecuador
 
@@ -22,60 +19,74 @@ class BackendDeveloper:
     stack = ["Python", "Django", "PostgreSQL"]
     interests = [
         "Multi-tenant systems",
-        "Database modeling",
-        "Permission design"
+        "Database architecture",
+        "Authorization design"
     ]
-    
+
     philosophy = "Design first. Code second."
 ```
 
-I build structured backend systems with emphasis on maintainability, data integrity, and long-term scalability.
+I design and build backend systems focused on clarity, data integrity, and long-term scalability.  
+My approach prioritizes architectural decisions before implementation, ensuring systems are maintainable and evolve cleanly over time.
 
-## What I Focus On
+---
 
-- Multi-tenant system design
-- Relational database architecture
-- Authorization & permission modeling
+## Core Focus
+
+- Multi-tenant SaaS architecture
+- Relational database modeling
+- Authorization & permission systems
 - Domain-driven backend structure
+- Long-term maintainability
+
+---
 
 ## Technical Stack
 
-**Backend:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+**Backend**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**Database:**  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**Infrastructure:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Infrastructure**  
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Selected Projects
+---
+
+## Selected Work
 
 **Agenda Virtual EIWA**  
-Modular academic management system with role hierarchy and domain separation.
+Modular academic management system with hierarchical role architecture and domain separation.
 
 **SouthernPOS**  
-Multi-tenant POS platform with transaction isolation and state management.
+Multi-tenant POS platform with transaction isolation, inventory state modeling, and ACID-compliant operations.
 
 **Plugsite**  
-SaaS platform with webhook processing and automated reconciliation.
+SaaS platform with webhook processing, automated reconciliation, and tenant-level data isolation.
+
+---
 
 ## Current Focus
 
-Refining multi-tenant strategies  
-Improving data modeling  
-Strengthening scalable backend design
+- Refining multi-tenant isolation strategies  
+- Improving relational modeling patterns  
+- Strengthening scalable backend architecture  
+
+---
 
 ## Contact
 
-**Email:** justin.ocana.molina@gmail.com  
-**Portfolio:** [justin-ocana.github.io](https://justin-ocana.github.io/)  
-**GitHub:** [@Justin-Ocana](https://github.com/Justin-Ocana)
+Email: justin.ocana.molina@gmail.com  
+Portfolio: https://justin-ocana.github.io/  
+GitHub: https://github.com/Justin-Ocana  
 
 ---
 
 <div align="center">
 
-*"I design systems before I write code."*
+"I design systems before I write code."
 
 </div>
