@@ -1,12 +1,22 @@
+<div align="center">
+
 # Justin Ocaña
 
-**Backend Engineer — System Architecture & SaaS Foundations**
+**Backend Engineer**
 
-Design-first approach. Structured backend systems. Long-term scalability.
+Architecture • SaaS Systems • Backend Design
+
+<br>
+
+> I build backend systems that are designed to scale, not just to run.
+
+<br>
 
 Based in Ecuador
 
----
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## About
 
@@ -34,35 +44,42 @@ class BackendEngineer:
         ]
 ```
 
-I design and build structured backend systems with emphasis on long-term maintainability, database integrity, and scalable SaaS foundations. My approach prioritizes architectural decisions before implementation, ensuring systems are built on solid foundations.
+I build structured backend systems with emphasis on long-term maintainability, database integrity, and scalable SaaS foundations. My approach prioritizes architectural decisions before implementation, ensuring systems are built on solid foundations.
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Architecture Focus
 
 **Multi-tenant Architecture**  
-Schema-level isolation strategies for SaaS platforms
+────────────────────────────  
+Schema-level isolation for SaaS platforms
 
 **Database Design**  
+────────────────────────────  
 Normalized relational structures with clear domain boundaries
 
 **Permission Systems**  
-Authorization as a core architectural layer, not an afterthought
+────────────────────────────  
+Authorization as a core architectural layer
 
 **Domain Logic**  
-Business rules independent of framework infrastructure
+────────────────────────────  
+Business rules independent from infrastructure
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Technical Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Backend:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
----
+**Database:**  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infrastructure:**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Case Studies
 
@@ -70,7 +87,7 @@ Business rules independent of framework infrastructure
 
 Academic management platform with hierarchical permissions and real-time collaboration.
 
-**Architectural Decisions:**
+**Architecture:**
 - Domain-driven separation (8 modular apps)
 - Role hierarchy with scoped permissions
 - Normalized relational modeling
@@ -78,45 +95,44 @@ Academic management platform with hierarchical permissions and real-time collabo
 
 **Stack:** Django • PostgreSQL • REST API
 
----
+<br>
 
 ### SouthernPOS — Multi-Tenant SaaS
 
 Point-of-sale system with tenant isolation and financial transaction handling.
 
-**Architectural Decisions:**
+**Architecture:**
 - Multi-tenant schema isolation strategy
 - Inventory state management with ACID compliance
 - Payment gateway integration with idempotency
-- Event-driven notification system
+- Event-based notification handling
 
 **Stack:** Django • PostgreSQL • Multi-Tenant Architecture
 
----
+<br>
 
 ### Plugsite — E-commerce Platform
 
 SaaS platform for digital stores with automated payment processing.
 
-**Architectural Decisions:**
+**Architecture:**
 - Tenant-isolated document storage (MongoDB)
 - Webhook processing with retry logic
 - Automated payout reconciliation system
-- API-first design for extensibility
+- Structured API layer for extensibility
 
 **Stack:** Django • MongoDB • PayPal Integration
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## Core Principles
+## What I Care About
 
-- Design before implementation
-- Structure logic clearly
-- Keep systems maintainable
-- Use AI strategically, not blindly
-- Build solutions that scale
+- System clarity
+- Predictable behavior
+- Scalable data models
+- Long-term maintainability
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Current Focus
 
@@ -124,17 +140,16 @@ Refining multi-tenant architecture strategies • Improving database modeling pa
 
 **Active Projects:** SouthernPOS • Plugsite
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## GitHub Activity
+## Engineering Mindset
 
-<div align="center">
+- Think in systems, not scripts
+- Model before implementing
+- Separate domain logic from infrastructure
+- Build with long-term evolution in mind
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-Ocana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
-
-</div>
-
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Contact
 
@@ -142,10 +157,10 @@ Refining multi-tenant architecture strategies • Improving database modeling pa
 **Portfolio:** [justin-ocana.github.io](https://justin-ocana.github.io/)  
 **GitHub:** [@Justin-Ocana](https://github.com/Justin-Ocana)
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-*"Solving real problems. I design systems before I write code."*
+*"I design systems before I write code."*
 
 </div>
