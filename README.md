@@ -2,8 +2,9 @@
 
 # Justin Ocaña
 
-Backend Developer  
-Designing scalable backend systems
+**Backend Developer**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Design+first.+Code+second.;Building+scalable+backend+systems." alt="Typing SVG" />
 
 Based in Ecuador
 
