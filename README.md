@@ -3,9 +3,10 @@
 # Justin Ocaña
 
 **Backend Developer**
-Architecture • SaaS Systems • Backend Design
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Design+first.+Code+second.;I+build+backend+systems+that+are+designed+to+scale." alt="Typing SVG" />
+Building scalable backend systems
+
+Design-first mindset • SaaS architecture • Clean system design
 
 Based in Ecuador
 
@@ -17,31 +18,25 @@ Based in Ecuador
 
 ```python
 class BackendDeveloper:
-    def __init__(self):
-        self.focus = "Architecture & scalable systems"
-        self.stack = ["Python", "Django", "PostgreSQL"]
-        self.interests = [
-            "Multi-tenant design",
-            "Database modeling",
-            "Permission architecture"
-        ]
+    focus = "Scalable backend architecture"
+    stack = ["Python", "Django", "PostgreSQL"]
+    interests = [
+        "Multi-tenant systems",
+        "Database modeling",
+        "Permission design"
+    ]
+    
+    philosophy = "Design first. Code second."
 ```
 
 I build structured backend systems with emphasis on maintainability, data integrity, and long-term scalability.
 
-## Architecture Focus
+## What I Focus On
 
-**Multi-tenant Systems**  
-Schema-level isolation strategies
-
-**Database Design**  
-Clear relational modeling with domain boundaries
-
-**Permission Architecture**  
-Authorization as a first-class system layer
-
-**Domain Logic**  
-Business rules independent from infrastructure
+- Multi-tenant system design
+- Relational database architecture
+- Authorization & permission modeling
+- Domain-driven backend structure
 
 ## Technical Stack
 
@@ -54,16 +49,16 @@ Business rules independent from infrastructure
 **Infrastructure:**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Selected Work
+## Selected Projects
 
 **Agenda Virtual EIWA**  
-Modular academic system with role-based architecture
+Modular academic management system with role hierarchy and domain separation.
 
 **SouthernPOS**  
-Multi-tenant POS with transaction isolation and state management
+Multi-tenant POS platform with transaction isolation and state management.
 
 **Plugsite**  
-SaaS platform with webhook processing and automated reconciliation
+SaaS platform with webhook processing and automated reconciliation.
 
 ## Current Focus
 
