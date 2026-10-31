@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img" aria-label="Qué hago: web y backend, juegos y mods, apps y TV"><defs><style>text{font-family:'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif}.m{font-family:'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace}</style></defs>
+<g transform="translate(0,0)">
+  <rect x="0.5" y="0.5" width="279" height="189" rx="16" fill="#161b22" stroke="#30363d"/>
+  <rect x="24" y="0" width="64" height="3" rx="1.5" fill="#8B5CF6"/>
+  <g transform="translate(24,28)"><rect x="0" y="4" width="40" height="30" rx="5" fill="none" stroke="#8B5CF6" stroke-width="2.4"/><path d="M0 13H40" stroke="#8B5CF6" stroke-width="2.4"/><circle cx="7" cy="8.5" r="1.8" fill="#8B5CF6"/><circle cx="13" cy="8.5" r="1.8" fill="#8B5CF6"/><path d="M13 22l-4 4 4 4M27 22l4 4-4 4" fill="none" stroke="#8B5CF6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="24" y="98" font-size="20" font-weight="700" fill="#ffffff">Web y backend</text>
+  <text x="24" y="124" font-size="13.5" fill="#9da7b3">Apps completas, de la base de</text>
+  <text x="24" y="143" font-size="13.5" fill="#9da7b3">datos a la pantalla.</text>
+  <text class="m" x="24" y="172" font-size="12" fill="#8B5CF6">Django · React · PostgreSQL</text>
+</g>
+<g transform="translate(300,0)">
+  <rect x="0.5" y="0.5" width="279" height="189" rx="16" fill="#161b22" stroke="#30363d"/>
+  <rect x="24" y="0" width="64" height="3" rx="1.5" fill="#F472B6"/>
+  <g transform="translate(24,28)"><rect x="0" y="8" width="42" height="26" rx="13" fill="none" stroke="#F472B6" stroke-width="2.4"/><path d="M12 15v12M6 21h12" stroke="#F472B6" stroke-width="2.4" stroke-linecap="round"/><circle cx="29" cy="18" r="2.4" fill="#F472B6"/><circle cx="35" cy="24" r="2.4" fill="#F472B6"/></g>
+  <text x="24" y="98" font-size="20" font-weight="700" fill="#ffffff">Juegos y mods</text>
+  <text x="24" y="124" font-size="13.5" fill="#9da7b3">Mundos que se juegan: motores,</text>
+  <text x="24" y="143" font-size="13.5" fill="#9da7b3">mods y sistemas en tiempo real.</text>
+  <text class="m" x="24" y="172" font-size="12" fill="#F472B6">Godot · Unity · Fabric</text>
+</g>
+<g transform="translate(600,0)">
+  <rect x="0.5" y="0.5" width="279" height="189" rx="16" fill="#161b22" stroke="#30363d"/>
+  <rect x="24" y="0" width="64" height="3" rx="1.5" fill="#22D3EE"/>
+  <g transform="translate(24,28)"><rect x="0" y="4" width="42" height="26" rx="5" fill="none" stroke="#22D3EE" stroke-width="2.4"/><path d="M13 36h16M21 30v6" stroke="#22D3EE" stroke-width="2.4" stroke-linecap="round"/><path d="M17 11l10 6-10 6z" fill="#22D3EE"/></g>
+  <text x="24" y="98" font-size="20" font-weight="700" fill="#ffffff">Apps y TV</text>
+  <text x="24" y="124" font-size="13.5" fill="#9da7b3">Launchers, PWAs y extensiones</text>
+  <text x="24" y="143" font-size="13.5" fill="#9da7b3">pensadas para usarse todos los días.</text>
+  <text class="m" x="24" y="172" font-size="12" fill="#22D3EE">Android · PWA · Chrome</text>
+</g></svg>

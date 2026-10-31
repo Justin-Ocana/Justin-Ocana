@@ -1,93 +1,66 @@
 <div align="center">
 
-# Justin Ocaña
-
-**Backend Developer**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Design+first.+Code+second.;Building+scalable+backend+systems." alt="Typing SVG" />
-
-Based in Ecuador
+<img src="assets/banner.svg" alt="Justin Ocaña, Full Stack Developer rumbo a Product Engineer" width="100%" />
 
 </div>
 
----
+<br />
 
-## About
+Tengo 17 años y me gusta construir cosas de punta a punta: desde la base de datos hasta la pantalla que ves. Hoy soy **full stack**; hacia donde voy es **product engineering**: entender qué necesita la gente y convertirlo en un producto que funcione y se vea bien.
 
-```python
-class BackendDeveloper:
-    focus = "Scalable backend architecture"
-    stack = ["Python", "Django", "PostgreSQL"]
-    interests = [
-        "Multi-tenant systems",
-        "Database architecture",
-        "Authorization design"
-    ]
+<br />
 
-    philosophy = "Design first. Code second."
-```
+<img src="assets/h-about.svg" alt="Qué hago" width="100%" />
 
-I design and build backend systems focused on clarity, data integrity, and long-term scalability.  
-My approach prioritizes architectural decisions before implementation, ensuring systems are maintainable and evolve cleanly over time.
+<img src="assets/about.svg" alt="Web y backend, juegos y mods, apps y TV" width="100%" />
 
----
+<br />
 
-## Core Focus
-
-- Multi-tenant SaaS architecture
-- Relational database modeling
-- Authorization & permission systems
-- Domain-driven backend structure
-- Long-term maintainability
-
----
-
-## Technical Stack
-
-**Backend**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**Database**  
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Infrastructure**  
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## Selected Work
-
-**Agenda Virtual EIWA**  
-Modular academic management system with hierarchical role architecture and domain separation.
-
-**SouthernPOS**  
-Multi-tenant POS platform with transaction isolation, inventory state modeling, and ACID-compliant operations.
-
-**Plugsite**  
-SaaS platform with webhook processing, automated reconciliation, and tenant-level data isolation.
-
----
-
-## Current Focus
-
-- Refining multi-tenant isolation strategies  
-- Improving relational modeling patterns  
-- Strengthening scalable backend architecture  
-
----
-
-## Contact
-
-Email: justin.ocana.molina@gmail.com  
-Portfolio: https://justin-ocana.github.io/  
-GitHub: https://github.com/Justin-Ocana  
-
----
+<img src="assets/h-projects.svg" alt="Proyectos destacados" width="100%" />
 
 <div align="center">
 
-"I design systems before I write code."
+<a href="https://github.com/Justin-Ocana/LightCode-Core"><img src="assets/card-lightcode-core.svg" alt="LightCode-Core: tienda para servidores de Minecraft con entrega automática por RCON" width="100%" /></a>
+<a href="https://github.com/Justin-Ocana/aurora-tv"><img src="assets/card-aurora-tv.svg" alt="Aurora TV: launcher para Fire TV inspirado en tvOS" width="49.5%" /></a>
+<a href="https://github.com/Justin-Ocana/cn-recreations"><img src="assets/card-cn-recreations.svg" alt="CN Recreations: canal 24/7 estilo Cartoon Network desde HBO Max" width="49.5%" /></a>
+<a href="https://github.com/Justin-Ocana/lemon-pos"><img src="assets/card-lemon-pos.svg" alt="Lemon POS: punto de venta web para pequeños negocios en Ecuador" width="49.5%" /></a>
+<a href="https://github.com/Justin-Ocana/academic-task-manager"><img src="assets/card-academic-task-manager.svg" alt="Academic Tasks: gestor de tareas académicas con grupos colaborativos" width="49.5%" /></a>
+
+</div>
+
+<br />
+
+<img src="assets/h-stack.svg" alt="Stack" width="100%" />
+
+<img src="assets/stack.svg" alt="Python, Django, React, TypeScript, PostgreSQL, Docker, Godot, Unity, Java, Android" width="100%" />
+
+<br />
+
+<img src="assets/h-activity.svg" alt="Actividad" width="100%" />
+
+<img src="assets/stats.svg" alt="Estadísticas de GitHub" width="100%" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Justin-Ocana/Justin-Ocana/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Gráfica de contribuciones convertida en una culebrita" src="https://raw.githubusercontent.com/Justin-Ocana/Justin-Ocana/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br />
+
+<img src="assets/h-contact.svg" alt="Hablemos" width="100%" />
+
+<div align="center">
+
+<a href="mailto:justin.ocana.molina@gmail.com"><img src="assets/contact-email.svg" alt="Email: justin.ocana.molina@gmail.com" height="64" /></a>
+<a href="https://justin-ocana.github.io/"><img src="assets/contact-portfolio.svg" alt="Portafolio: justin-ocana.github.io" height="64" /></a>
+<a href="https://github.com/Justin-Ocana"><img src="assets/contact-github.svg" alt="GitHub: Justin-Ocana" height="64" /></a>
+
+<br /><br />
+
+<img src="assets/footer.svg" alt="Diseño primero, código después." width="100%" />
 
 </div>

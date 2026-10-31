@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="98" viewBox="0 0 880 98" role="img" aria-label="Stack"><defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.8"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient><style>text{font-family:'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif}.m{font-family:'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace}</style></defs><g transform="translate(0,30)">
+<rect x="0.5" y="0.5" width="879" height="55" rx="14" fill="#161b22" stroke="#30363d"/>
+<rect x="0" y="0" width="7" height="56" rx="3" fill="url(#b)"/>
+<text x="30" y="35" font-size="19" font-weight="700" fill="#ffffff" letter-spacing="2.2">STACK</text>
+<rect x="123.0" y="27" width="637.0" height="2" rx="1" fill="url(#l)"/>
+<text class="m" x="856" y="34" font-size="13" fill="#9da7b3" text-anchor="end">03</text></g></svg>

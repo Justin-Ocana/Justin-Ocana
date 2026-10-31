@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="64" viewBox="0 0 280 64" role="img" aria-label="EMAIL: justin.ocana.molina@gmail.com"><defs><style>text{font-family:'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif}.m{font-family:'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace}</style></defs>
+<rect x="0.5" y="0.5" width="279" height="63" rx="16" fill="#161b22" stroke="#30363d"/>
+<rect x="0" y="14" width="4" height="36" rx="2" fill="#8B5CF6"/>
+<g transform="translate(24,19)"><rect x="0" y="3" width="26" height="19" rx="4" fill="none" stroke="#8B5CF6" stroke-width="2.2"/><path d="M1 6l12 9 12-9" fill="none" stroke="#8B5CF6" stroke-width="2.2" stroke-linejoin="round"/></g>
+<text class="m" x="66" y="27" font-size="11" fill="#8B5CF6" letter-spacing="1.4">EMAIL</text>
+<text x="66" y="46" font-size="14" font-weight="600" fill="#e6edf3">justin.ocana.molina@gmail.com</text></svg>
